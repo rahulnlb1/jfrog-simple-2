@@ -1,7 +1,7 @@
 
 
 resources:
-  - name: source_repo_1
+  - name: Github
     type: GitRepo
     configuration:
       gitProvider: GitHub
